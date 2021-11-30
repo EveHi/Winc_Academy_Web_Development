@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- hier zet je de code in de head tags -->
+       
+        <header> <title> Tijd voor een foto! </title> </header> 
+       
+        
+    </head>
+    <body>
+        <header> <h1>Tijd voor een foto</h1> </header> 
+        <section> <p>Die had je nog van mij tegoed.</p> </section> 
+      
+        <H1>Spot de theeleut op haar afstudeerfoto</H1>
+        <nav> <a> <img src="graduation.jpg" alt="Hier sta ik op" width="600"</a> </nav>
+
+        <br>
+        <br>
+        
+        <aside> <p>Dit komt er even bij</p> </aside>
+
+        <br>
+        <br>
+
+        <nav> <a href="index.html">nu mag je weer terug naar de andere pagina</a> </nav>
+
+        <br>
+        <br>
+
+        <footer> <nav>  <a href="https://www.google.com">of als je liever naar Google wilt mag dat ook</a> </nav> <footer>
+    </body>
+</html>
