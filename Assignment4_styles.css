@@ -1,0 +1,39 @@
+
+
+  body { 
+    color: grey;
+    font:normal 12px helvetica;
+    background-color:honeydew;
+}
+
+
+  h1.black-border {
+    border: 5px solid black;
+}
+
+  p.black-border {
+    border: 5px solid black;
+}
+
+#green-background {
+    background-color:pink;
+    text-align: center;
+    color:white;
+    font-weight: bold;
+}
+
+#bronze {
+    color:brown;
+    font:normal 16px arial;
+   
+}
+
+#silver {
+   color:silver;
+   font:normal 24px arial;
+}
+
+#gold {
+    color:gold;
+    font:normal 24px arial;
+}
